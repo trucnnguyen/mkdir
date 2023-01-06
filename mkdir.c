@@ -1,9 +1,6 @@
 /******************************************************************************
  * Truc Nguyen
- * ID: 016465020
- * CS2600, Fall 2022
- * Program Assignment 04
- * This assignment is to write a version of "mkdir" command in Linux/Unix.
+ * This project is to write a version of "mkdir" command in Linux/Unix.
  
 *******************************************************************************/
 #include <stdio.h>
